@@ -29,8 +29,8 @@ header {
 .container {
     width: 100%;
     max-width: 1200px;
-    background: white; /* White content area */
-    padding: 20px 80px; /* Keep existing padding */
+    background: white; 
+    padding: 20px 80px;
 }
 
 img {
