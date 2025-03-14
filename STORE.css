@@ -30,7 +30,7 @@ header {
     width: 100%;
     max-width: 1200px;
     background: white; /* White content area */
-    padding: 20px 258px; /* Keep existing padding */
+    padding: 20px 80px; /* Keep existing padding */
 }
 
 img {
